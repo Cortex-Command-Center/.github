@@ -2,4 +2,4 @@ Welcome to the Cortex Command Center, home of the Cortex Command Community Conti
 
 ModDB: https://www.moddb.com/games/cortex-command-community-continuation
 
-We are currently a little bit de-platformed. We're working on changing that.
+Our self-hosted chat is here: [Rocket.Chat](https://www.cortexcommandcenter.net/home)
